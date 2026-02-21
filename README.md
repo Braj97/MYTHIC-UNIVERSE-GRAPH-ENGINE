@@ -102,6 +102,8 @@ CREATE (g3)-[:BALANCES {harmony:85}]->(g1);
 # GRAPH VISUALISATION
 MATCH (n)-[r]->(m)
 RETURN n,r,m;
+# OUTPUT
+https://i.supaimg.com/b07f367b-02ce-46e8-be00-5734adffe9c9/1b4850a1-f0eb-4efb-9ec6-a5a2145137bf.png
 
 
 
